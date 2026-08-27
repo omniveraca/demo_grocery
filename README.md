@@ -39,4 +39,4 @@ pnpm preview    # Preview the production build
 
 If browser storage is blocked or corrupt, the app falls back to safe defaults and continues in memory.
 
-GitHub Pages publishes the production build from `main` to `https://vix0000.github.io/demo_grocery/`. In the repo, set Pages source to GitHub Actions.
+GitHub Pages publishes the production build from `main` to `https://omniveraca.github.io/demo_grocery/`. In the repo, set Pages source to GitHub Actions.
