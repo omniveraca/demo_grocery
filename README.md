@@ -4,11 +4,15 @@ Downtown Demo Market is a front-end grocery store demo built with React, TypeScr
 
 Everything is local to the browser. There is no backend, account system, or real payment processing.
 
+Live site: https://omniveraca.github.io/demo_grocery/
+
 ## Run locally
 
 Requires Node.js 22.13 or newer.
 
 ```bash
+git clone https://github.com/omniveraca/demo_grocery.git
+cd demo_grocery
 pnpm install
 pnpm dev
 ```
@@ -39,4 +43,4 @@ pnpm preview    # Preview the production build
 
 If browser storage is blocked or corrupt, the app falls back to safe defaults and continues in memory.
 
-GitHub Pages publishes the production build from `main` to `https://omniveraca.github.io/demo_grocery/`. In the repo, set Pages source to GitHub Actions.
+This repo is owned by [Omniveraca](https://github.com/omniveraca). GitHub Pages publishes the production build from `main`.
