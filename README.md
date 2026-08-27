@@ -6,7 +6,7 @@ Everything is local to the browser. There is no backend, account system, or real
 
 ## Run locally
 
-Requires Node.js 20.19 or newer.
+Requires Node.js 22.13 or newer.
 
 ```bash
 pnpm install
